@@ -1,0 +1,23 @@
+{
+  "name": "0x06-unittests_in_js",
+  "version": "1.0.0",
+  "description": "A project for simple js testing with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "alx",
+    "test",
+    "mocha"
+  ],
+  "author": "sulemana hajjaj",
+  "license": "ISC",
+  "dependencies": {
+  	"chai": "^4.3.7",
+	"mocha": "^10.2.0",
+	"request": "^2.88.2",
+	"sinon": "^15.0.2",
+	"stub": "^0.3.2"
+	}
+}
